@@ -12,3 +12,4 @@ async function verifyPassword(data, hashData){
 }
 
 module.exports = {hashPasword, verifyPassword};
+

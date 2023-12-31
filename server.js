@@ -7,17 +7,9 @@ const {join} = require("path")
 
 
 
-
-app.set("views", join(__dirname, "src", "routes", "views"))
-app.set("view engine", "ejs");
-
 app.use(express.json());
 app.use(require("cors")());
-app.use("/", routes.router);
-
-app.get("/", (req,res) => {
-    res.render("index")
-})
+app.use("/api", routes.router);
 
 
 app.listen(port, () => {

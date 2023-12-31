@@ -1,0 +1,37 @@
+[
+    {
+        "id": "ecb9cac4-cbdd-4c50-b7e4-77c03b2eda64",
+        "phone": 999999999,
+        "password": "$2b$10$oa61glMuPmQbSoferQSnQeKTA7tx2NHbgY17hYT2CaYmEwF7qHZ1m",
+        "full_name": "admin",
+        "role": "admin"
+    },
+    {
+        "id": "dsfasdf23",
+        "phone": 998777777,
+        "password": "sadfdsfsad",
+        "full_name": "salom alik",
+        "role": "user"
+    },
+    {
+        "id": "9e44ee48-7f38-4703-91f0-93ef89836039",
+        "phone": 343428373,
+        "password": "$2b$10$OWuDjPFtDdZTDk7WvkUUsetKCGznH1ITg7C9ePfe8m/wrO7RNWaNm",
+        "full_name": "asddsa",
+        "role": "user"
+    },
+    {
+        "id": "bbf27df1-296b-420b-87aa-f978a7525419",
+        "phone": 183939393,
+        "password": "$2b$10$TzFSRMiZRAaVqZSEGh3n3.26txiGCBUFa9VPSIZyBwqgtYEjlhgRK",
+        "full_name": "asddsa",
+        "role": "user"
+    },
+    {
+        "id": "85b29083-7476-4166-85af-e41ecfe493f0",
+        "phone": 666666666,
+        "password": "$2b$10$qkgH.gLJHXwwB2S.N.xjsO/NXKQRtyl5Hmqpeh9YrjFUF8xIZmvhq",
+        "full_name": "test",
+        "role": "user"
+    }
+]
